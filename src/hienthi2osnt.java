@@ -19,7 +19,7 @@ public class hienthi2osnt {
             }
             if ( status != 0 )
             {
-                System.out.println(num );
+                System.out.println(                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                         num );
                 i++;
                 count++;
             }
